@@ -3,6 +3,6 @@ import { defineConfig } from "vite";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // base: "/Youtube-clone/",
+  base: "/Youtube-clone/",
   plugins: [react()],
 });
